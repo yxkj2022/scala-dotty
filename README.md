@@ -2,6 +2,7 @@ Dotty
 =====
 [![Dotty CI](https://github.com/lampepfl/dotty/workflows/Dotty/badge.svg?branch=master)](https://github.com/lampepfl/dotty/actions?query=branch%3Amaster)
 [![Join the chat at https://gitter.im/scala/scala](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/scala/scala?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyxkj2022%2Fscala-dotty.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyxkj2022%2Fscala-dotty?ref=badge_shield)
 
 * [Homepage](http://dotty.epfl.ch)
 * [Documentation](https://dotty.epfl.ch/docs)
@@ -29,3 +30,7 @@ How to Contribute
 License
 =======
 Dotty is licensed under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyxkj2022%2Fscala-dotty.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyxkj2022%2Fscala-dotty?ref=badge_large)
